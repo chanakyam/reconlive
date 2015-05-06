@@ -1,0 +1,89 @@
+    <aside class="sidebar">
+      <!--<div class="technews">
+        <div class="FieldLeft">
+          <h3>LATEST TECHNOLOGY NEWS</h3>
+          {% for n in technology %}
+          <div>
+            <a href="/n/{{ n.value.id }}">{{ n.value.title }}</a>
+            <br>
+            <span class="small">{{ n.value.uploadedDate }} </span>
+          </div>
+          {% endfor %}
+          <div style="height: 5px;background:none;">
+            <span style="float: right;line-height: 0px;">
+              <a href="/morenews?p=1">..More News</a>
+            </span>
+          </div>
+        </div>
+        <!-- FieldLeft end 
+        <span class="clear"></span> 
+      </div>
+       technews end  -->
+      
+      <!--<div class="fallow margin20_T">
+        <div class="module-title">FOLLOW TECHNOLOGY NEWS</div>
+        <div class="Fallow-news"><a href="#"><img src="/images/t-follow.png" alt=""></a> <a href="#"><img src="/images/rss.png" alt=""></a> <a href="#"><img src="/images/email-follow.png" alt=""></a> <a href="#"><img src="/images/f-like.png" alt=""></a></div>
+      </div>-->
+
+
+      <!-- fallow end -->
+      <div class="rightad margin20_T">
+        <script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=300X250&cwpid=552062&cwwidth=300&cwheight=250&cwpnet=1&cwtagid=178291"></script>
+      </div>
+      <div style="height: 310px;margin-left: -11px;">
+      <iframe style="border:0;width:350px;height:350px;" src="http://cryptochart.com/widget/btce_price_longterm_widget.html">Yourbrowser does not support iframes.
+      </iframe>
+      </div>
+      <!--<div class="right-ad3" style="margin: 10px 0px;width: 50%;"><img src="/images/right-ad3.jpg" alt=""></div>-->
+
+      <div class="rightad margin10_T"> <script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=300X250&cwpid=552062&cwwidth=300&cwheight=250&cwpnet=1&cwtagid=178291"></script></div>
+      <div>
+        <div class="tickersnews left" style="width:51%">
+          <div class="FieldLeft">
+            <h3>LATEST TECHNOLOGY NEWS</h3>
+          {% for n in technology %}
+          <div>
+            <a href="/n/{{ n.id }}">{{ n.title }}</a>
+            <br>
+            <span class="small">{{ n.upload_date }} </span>
+          </div>
+          {% endfor %}
+          <div style="height: 5px;background:none;">
+            <span style="float: right;line-height: 0px;">
+              <a href="/morenews?c=us_technology&p=1">..More News</a>
+            </span>
+          </div>
+          </div>  
+          <span class="clear"></span> 
+        </div>
+        <div class="rightad2" style="float:right;">
+          <script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=160X600&cwpid=552062&cwwidth=160&cwheight=600&cwpnet=1&cwtagid=178290"></script>
+        </div> 
+      </div>
+      <div style="height: 310px;margin-left: -25px;float:left;">
+        <iframe style="border:0;width:350px;height:350px;" src="http://cryptochart.com/widget/vir_longterm_widget.html">Yourbrowser does not support iframes.</iframe>
+      </div>
+      <br>
+      <div style="height: 310px;margin-left: -9px;float:left;">
+        <iframe style="border:0;width:350px;height:350px;" src="http://cryptochart.com/widget/gox_longterm_widget.html">Yourbrowser does not support iframes.</iframe>
+      </div>
+      
+
+      <!-- tickersnews end  -->
+      <!--<div class="rightmodules margin10_T">
+        <div class="mod-title">MORE FROM Tech & The Internet</div>
+        <div class="module-inner techmod">
+          <div class="row"> <span class="news-thumb"><img src="/images/tech-thumb.jpg"></span>
+            <h3 class="mfg">Mexico monster truck accident kills 8, including kids, injures 79</h3>
+          </div>
+          <div class="row"> <span class="news-thumb"><img src="/images/tech-thumb.jpg"></span>
+            <h3 class="mfg">Mexico monster truck accident kills 8, including kids, injures 79</h3>
+          </div>
+          <div class="row"> <span class="news-thumb"><img src="/images/tech-thumb.jpg"></span>
+            <h3 class="mfg">Mexico monster truck accident kills 8, including kids, injures 79</h3>
+          </div>
+        </div>
+      </div>-->
+      <!-- rightmodules end --> 
+      
+    </aside>

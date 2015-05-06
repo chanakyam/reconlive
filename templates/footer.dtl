@@ -1,0 +1,7 @@
+<footer>
+	<span class="right">
+		<a href="https://twitter.com/reconlive_net" target="_blank"><img src="/images/twitter.png"></a>
+		<a href="https://www.facebook.com/reconlive.net" target="_blank"><img src="/images/facebook.png"></a>		
+	</span>
+    <summary> <span class="left">Copyright &copy;  {% now "Y" %}  Reconlive. All Rights Reserved. | <a href=/termsandconditions>Terms & Conditions</a></span> <span class="right"><!--<span class="left margin5">Follow Us on:</span> <a href="#"><img src="images/facebook.png"></a> <a href="#"><img src="images/twitter.png"></a> <a href="#"><img src="images/linkdedin.png"></a> <a href="#"><img src="images/google.png"></a> </span>--> </summary>
+  </footer>

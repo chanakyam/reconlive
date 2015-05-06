@@ -1,0 +1,12 @@
+{application, reconlive,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { reconlive_app, []}},
+  {env, []}
+ ]}.

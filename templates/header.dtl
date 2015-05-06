@@ -1,0 +1,40 @@
+<header>
+
+<!--<div class="topheader"> <span class="left">MONDAY 7 OCTOBER 2013</span> <span class="right"><a href="#" title="login">login</a> | <a href="#" title="Register">Register</a></span> <span class="clear"></span> </div>-->
+
+
+  <div class="logoheader"> <a href="#" title="Sports News" class="logo left"><img src="/images/ReconLive_logo.png" alt=""></a>
+    <!--<div class="TopRight">
+      <form class="searchform">
+        <input type="text" name="search" class="search-box" />
+        <input type="submit" value="" name="" class="searchbutton">
+      </form>
+    </div> -->
+    <!-- TopRight end --> 
+    <div class="TopRight">
+        <script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=728X90&cwpid=552062&cwwidth=728&cwheight=90&cwpnet=1&cwtagid=178292"></script>
+    </div>
+    <span class="clear"></span></div>
+  <!--logoheader end -->
+  <nav>
+    <div class="navcontainer">
+      <div class="menu"> <span>MENU</span>
+        <ul class="Navigation">
+          <li> <a href="/" title="Home">Home</a>
+             <!--<ul>
+              <li><a href="#" title="Home">Home</a></li>
+            </ul>-->
+          </li>
+          <li><a href="/morenews?c=us_technology&p=1" title="Technology News">Technology News</a></li>
+          <li><a href="/morenews?c=us_internet&p=1" title="Internet News">Internet News</a></li>
+          <li><a href="/morenews?c=us_science&p=1" title="Science News">Science News</a></li>
+          <li><a href="/morevideos?p=1" title="More Videos">More Videos</a></li>
+          <!--<li><a href="#" title="Oddly Enough">Oddly Enough</a></li> -->
+        </ul>
+      </div>
+      <!-- menu end -->
+      <!--<div class="nav-right"><a href="#" class="homeicon"></a> <a href="#" class="mail-icon"></a></div> -->
+    </div>
+    <span class="clear"></span> 
+  </nav>
+</header>
